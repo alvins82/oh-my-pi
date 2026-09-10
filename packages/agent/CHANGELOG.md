@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Improved compaction handoff instructions to distinguish confirmed filesystem state from planned intent and emphasize live environment ground truth over summarized history.
+
 ## [18.1.17] - 2026-09-10
 
 ### Changed
