@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Documented `[shaken ...]` artifact recovery in the default system prompt so models recognize pruned tool results as recoverable cache pointers rather than corrupted output.
+
 ## [18.1.17] - 2026-09-10
 
 ### Added
